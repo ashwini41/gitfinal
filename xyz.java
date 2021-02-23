@@ -1,3 +1,2 @@
- We are learning git"
-What is going on there!!
+"What is going on there!!
 
